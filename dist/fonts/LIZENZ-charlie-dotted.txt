@@ -1,0 +1,9 @@
+Charlie Dotted – Copyright nirmalbiswas 2010, gebaut mit FontStruct
+https://fontstruct.com/fontstructions/show/371933
+Lizenz: Creative Commons Attribution Share Alike 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
+Quelle: dafont.com (charlie_dotted.zip), heruntergeladen 2026-10-14
+
+Bearbeitet für das Raum-Panel (gleiche Lizenz CC BY-SA 3.0):
+- charlie_punkte.ttf: Punkte als Achtecke neu erzeugt (kleinere Datei), ergänzt um ä ö ü Ä Ö Ü ß ° · – − — …
+- charlie_voll.ttf: dieselben Zeichen, jeder Rasterpunkt als volles Quadrat (ausgefüllte Fassung für kleine Texte)
+- charlie_dotted.ttf: Original, unverändert
