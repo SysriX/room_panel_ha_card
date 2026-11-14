@@ -1,5 +1,17 @@
 # Room Panel
 
+![Room Panel preview](docs/images/preview.png)
+
+*Rendered from the card code with example data (no real Home Assistant).*
+
+<details><summary>More screenshots</summary>
+
+**Settings window, heating tab**
+
+![Room Panel – Settings window, heating tab](docs/images/heating-settings.png)
+
+</details>
+
 A full-screen wall-tablet dashboard card for Home Assistant. The screen is divided into a block grid
 (default 50 × 30) that always fills the whole display; you place glass frames on the grid and fill
 them with modules (light, heating, weather, room climate, floor plan, audio, status bar, alarm clock,
